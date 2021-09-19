@@ -45,13 +45,13 @@ $(".scroll-up-btn").click(function(){
 
 // creating typing animation
 var typed = new Typed(".typing", {
-    strings: ["Web Developer","App Developer"],
+    strings: ["Web Developer"],
     typeSpeed: 70,
     backSpeed: 80,
     loop: true
 });
 var typed = new Typed(".typing-2", {
-    strings: ["Web Developer","App Developer"],
+    strings: ["Web Developer"],
     typeSpeed: 70,
     backSpeed: 80,
     loop: true
